@@ -678,6 +678,7 @@ export
     ifelse,
     objectid,
     sizeof,
+    summarysize,
 
 # tasks and conditions
     Condition,
